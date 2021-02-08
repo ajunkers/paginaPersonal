@@ -1,0 +1,8 @@
+Ejercicio para el finde: hacer una web personal
+- Tendrá tres secciones: la portada (Home), una página de contacto y una página con el CV
+- Las tres secciones tienen que tener una cabecera con un menú de navegación con los tres links.
+- La home es de contenido libre.
+- La sección de contacto debe llevar un email y un teléfono, con un link que me permita llamar o escribir un email.
+- Los tres archivos HTML deben pasar el validador sin errores.
+- Utiliza una hoja de estilos CSS para establecer algunas propiedades visuales.
+- Despliega la web en netlify

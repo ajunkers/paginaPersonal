@@ -1,0 +1,28 @@
+nav {
+	background-color: #999;
+	padding: 30px;
+}
+
+nav > a{
+	color: #000;
+	text-decoration: none;
+	font-size: large;
+	padding: 20px;
+	margin-top: 10px;
+	border: 2px #555 solid;
+	border-radius: 10px;
+}
+
+section{
+	display: block;
+}
+
+section > div{
+	float: left;
+	width: 600px;
+	height: 400px;
+}
+
+/* nav > a:hover{
+	background-color: #ccc;
+} */
