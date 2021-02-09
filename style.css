@@ -7,7 +7,7 @@ nav {
 	padding: 30px;
 }
 
-nav > a{
+nav > a {
 	color: #000;
 	text-decoration: none;
 	font-size: large;
@@ -17,16 +17,16 @@ nav > a{
 	border-radius: 10px;
 }
 
-section{
+section {
 	display: block;
 }
 
-section > div{
+section > article {
 	float: left;
 	width: 600px;
 	height: 400px;
 }
 
-/* nav > a:hover{
+nav > a:hover {
 	background-color: #ccc;
-} */
+}
